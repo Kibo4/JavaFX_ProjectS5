@@ -1,0 +1,6 @@
+drawingEditor
+drawingEditor.controller
+drawingEditor.model
+drawingEditor.model.exceptions
+drawingEditor.model.formes
+drawingEditor.model.tools
